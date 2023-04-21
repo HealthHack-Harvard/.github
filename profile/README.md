@@ -1,31 +1,32 @@
-
 # CardioVasc
 
-<img src="../assets/images/CardioVascENG.png" width="80%;" alt="Architecture image">
+<img src="https://raw.githubusercontent.com/HealthHack-Harvard/.github/main/assets/images/CardioVascENG.png" height="auto" width="100%;" alt="Architecture image">
 
 ## Introduction - The problem
-Cardiovascular diseases are the main cause of morbidity and mortality in Latin America and the 
-Caribbean, affecting over 30.3 million people in the region. In 2019, 2.8 million new cases of 
-cardiovascular diseases were registered, and 962,309 deaths were attributed to these diagnoses. Since 
-1990, most of these cases and deaths have been related to ischemic heart disease, which have, in addition, 
-increased as demographic and epidemiological transitions unfold. However, stroke and peripheral artery 
+
+Cardiovascular diseases are the main cause of morbidity and mortality in Latin America and the
+Caribbean, affecting over 30.3 million people in the region. In 2019, 2.8 million new cases of
+cardiovascular diseases were registered, and 962,309 deaths were attributed to these diagnoses. Since
+1990, most of these cases and deaths have been related to ischemic heart disease, which have, in addition,
+increased as demographic and epidemiological transitions unfold. However, stroke and peripheral artery
 disease also play a significant role in the burden of CVD throughout the region.
 <br>
 
-Several countries have started to implement policies pertaining CVD prevention. Notwithstanding, most 
-countries in the region lack effective surveillance systems to identify and monitor at-risk population, as 
-well as to measure or evaluate inequities. Similarly, there are significant care gaps for primary and 
-secondary prevention, diagnosis and treatment, and inadequate strategies to measure quality of care 
-given to patients. Moreso, only four countries within LAC currently have legislation about CVD medicines 
-at affordable prices or at no cost for patients, and countries within LAC present the 
+Several countries have started to implement policies pertaining CVD prevention. Notwithstanding, most
+countries in the region lack effective surveillance systems to identify and monitor at-risk population, as
+well as to measure or evaluate inequities. Similarly, there are significant care gaps for primary and
+secondary prevention, diagnosis and treatment, and inadequate strategies to measure quality of care
+given to patients. Moreso, only four countries within LAC currently have legislation about CVD medicines
+at affordable prices or at no cost for patients, and countries within LAC present the
 “highest non-communicable disease burden associated with physical inactivity”.
 <br>
 
 ## Our solution
-CardioVasc is a mobile app created to help population to manage cardiovascular disease treatments. 
+
+CardioVasc is a mobile app created to help population to manage cardiovascular disease treatments.
 The solution count with features including the medication, exams and medical appointment management,
 risk factor monitoring, the treatment donation center and a support network that the users can share
-their conquests, experiences and feelings about the treatments, like a social media. Besides, 
+their conquests, experiences and feelings about the treatments, like a social media. Besides,
 the solution count with a chatbot integrated with the openAI GTP-4 API, that answer the user instantly for occasional doubts,
 a thing that would take hours, days or months to be answered in person by a doctor.
 <br>
@@ -37,32 +38,38 @@ in something more gentler to deal with, at Polygon Blockchain, where the Smart C
 <br>
 
 ## Architechture
-<img src="../assets/images/Arquitetura.png" width="80%;" alt="Architecture image">
+
+<img src="https://github.com/HealthHack-Harvard/.github/blob/main/assets/images/Arquitetura.png?raw=true" width="80%;" alt="Architecture image">
 <br>
 
 ## Technologies
-- React Native
-- Node.js
-- Express.js
-- Prisma ORM
-- SQLite
-- Solidity
-- OpenAI(Chat GPT API)
-- InterPlanetary File System
-<br>
+
+-   React Native
+-   Node.js
+-   Express.js
+-   Prisma ORM
+-   SQLite
+-   Solidity
+-   OpenAI(Chat GPT API)
+-   InterPlanetary File System
+    <br>
 
 ## File tree
+
 ```
   - client
   - server
   - smart-contracts
 ```
+
 <br>
 
 ## Running application
+
 <br>
 
 ## Our team
+
 <table>
   <tr>
     <td align="center">
