@@ -37,7 +37,7 @@ in something more gentler to deal with, at Polygon Blockchain, where the Smart C
 <br>
 
 ## Architechture
-<img src="../assets/images/arquitetura.png" width="80%;" alt="Architecture image">
+<img src="../assets/images/Arquitetura.png" width="80%;" alt="Architecture image">
 <br>
 
 ## Technologies
