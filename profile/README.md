@@ -55,11 +55,24 @@ in something more gentler to deal with, at Polygon Blockchain, where the Smart C
     <br>
 
 ## File tree
-
-```js
-  - client
-  - server
-  - smart-contracts
+```
+├── .github
+│    ├── profile
+│        ├── README.md
+│
+├── server
+│    ├── controllers
+│    ├── database
+│    ├── prisma
+│    ├── routes
+│    ├── services
+│
+├── client
+│    ├── app
+│    ├── assets
+│    ├── components
+│    ├── constants
+│    ├── gpt
 ```
 
 <br>
