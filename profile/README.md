@@ -56,7 +56,7 @@ in something more gentler to deal with, at Polygon Blockchain, where the Smart C
 
 ## File tree
 
-```
+```js
   - client
   - server
   - smart-contracts
@@ -65,6 +65,28 @@ in something more gentler to deal with, at Polygon Blockchain, where the Smart C
 <br>
 
 ## Running application
+
+To run the application there are some dependencies that need to be installed due to the technologies used, they are:
+
+-   Node Js
+
+### Run client
+
+To run the frontend client it is necessary to enter the frontend repository named `client` and run the following commands to install the project dependencies and then to run the client.
+
+```
+  $ npm i
+  $ yarn start
+```
+
+### Run server
+
+To run the backend server it is necessary to enter the frontend repository named `server` and run the following commands to install the project dependencies and then to run the server.
+
+```
+  $ npm i
+  $ npm run start
+```
 
 <br>
 
